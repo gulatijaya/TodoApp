@@ -1,5 +1,5 @@
 ![Screenshot (149)](https://github.com/user-attachments/assets/c4dc5d83-9192-4b98-9b20-091155d120d2)
-![Screenshot (148)](https://github.com/user-attachments/assets/e2c12cf8-b584-4e20-b0c4-66c5410705be)
+
 # todoapp
 
 An Electron application with React
