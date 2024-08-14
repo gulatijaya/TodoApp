@@ -1,4 +1,5 @@
-![Screenshot (149)](https://github.com/user-attachments/assets/c4dc5d83-9192-4b98-9b20-091155d120d2)
+![ElectronApp](https://github.com/user-attachments/assets/895b21e9-3cbe-44bb-b0c2-95224745deb7)
+
 
 # todoapp
 
